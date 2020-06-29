@@ -12,7 +12,7 @@ image: forest.jpg
 
 I've been doing A/B testing for a number of years, but wanted an accessible resource for leveling up my knowledge.  
 Several people recommended [this book](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/TFjPDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover).  
-Here are some of my thoughts while reading it.
+Notes below are by chapter.
 
 ## Notable features
 
