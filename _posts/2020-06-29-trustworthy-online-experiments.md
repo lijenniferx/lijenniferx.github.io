@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Trustworthy Online Experiments"
 author: "Jennifer Li"
 categories: journal
 tags: [documentation,sample]
