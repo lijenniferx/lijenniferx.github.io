@@ -1,8 +1,7 @@
-
 ---
 layout: post
-title: "Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"
-author: "Diane Tang, Ron Kohavi, and Ya Xu"
+title: "Trustworthy Online Experiments"
+author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: forest.jpg
