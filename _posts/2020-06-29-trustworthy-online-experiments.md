@@ -4,7 +4,8 @@ title: "Trustworthy Online Experiments"
 author: "Jennifer Li"
 categories: journal
 tags: [documentation,sample]
-image:(https://s.abcnews.com/images/Lifestyle/ht_vampire_cat_em_161101_16x9_992.jpg)
+image:![image](https://user-images.githubusercontent.com/5098864/86055882-84586600-ba2a-11ea-8a6f-c7320cf3844f.png)
+
 ---
 
 # Overview
