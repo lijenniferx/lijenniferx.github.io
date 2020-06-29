@@ -4,14 +4,20 @@ title: "Trustworthy Online Experiments"
 author: "Jennifer Li"
 categories: journal
 tags: [documentation,sample]
-image: cat.jpg
+image:
 ---
 
 # Overview
 
-I've been doing A/B testing for a number of years, but wanted an accessible resource for leveling up my knowledge.  
-Several people recommended [this book](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/TFjPDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover).  
+I've been doing A/B testing for a number of years, but wanted an accessible resource for leveling up my knowledge.  Several people recommended [this book](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/TFjPDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover).  
 Notes below are by chapter.
+
+
+```
+import numpy as np
+
+np.random.choice(1,100,1)
+```
 
 ## Notable features
 
