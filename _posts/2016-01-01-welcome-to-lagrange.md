@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"
+author: "Jennifer Li"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
