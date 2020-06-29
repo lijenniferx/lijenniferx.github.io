@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Trustworthy Online Experiments"
-author: "Paul Le"
+title: ""
+author: "Jennifer Li"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: cat.jpg
 ---
 
 # Overview
