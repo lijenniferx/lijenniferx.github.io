@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Welcome To My Blog'
-description:	       'Using code to make sense of data science topics'
+title:		           'Using code to make sense of data science topics'
+description:	       ''
 author:              'Jennifer Li'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
