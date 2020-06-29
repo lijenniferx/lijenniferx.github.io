@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Welcome'
+title:		           'Welcome To My Blog'
 description:	       'Using code to make sense of data science topics'
 author:              'Jennifer Li'
 
